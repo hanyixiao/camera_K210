@@ -3,6 +3,7 @@
 
 ### 1.硬件
 硬件系统为k210开发板Sipeed_MAIX_DOCK，摄像头为gc0328,lcd 分辨率为320*240:
+
 ![](img/maix_dock.jpg)
 ### 2.软件
 软件是基于基于LicheeDan_K210_examples修改而成。
