@@ -1,4 +1,4 @@
-# discrption
+# discription
 > 这是一个摄像头项目，
 
 ### 1.硬件
